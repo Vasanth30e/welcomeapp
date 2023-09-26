@@ -1,0 +1,15 @@
+D:\Training\Recap\SimpleConApp\bin\Debug\net7.0\SimpleConApp.exe
+D:\Training\Recap\SimpleConApp\bin\Debug\net7.0\SimpleConApp.deps.json
+D:\Training\Recap\SimpleConApp\bin\Debug\net7.0\SimpleConApp.runtimeconfig.json
+D:\Training\Recap\SimpleConApp\bin\Debug\net7.0\SimpleConApp.dll
+D:\Training\Recap\SimpleConApp\bin\Debug\net7.0\SimpleConApp.pdb
+D:\Training\Recap\SimpleConApp\obj\Debug\net7.0\SimpleConApp.csproj.AssemblyReference.cache
+D:\Training\Recap\SimpleConApp\obj\Debug\net7.0\SimpleConApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\Recap\SimpleConApp\obj\Debug\net7.0\SimpleConApp.AssemblyInfoInputs.cache
+D:\Training\Recap\SimpleConApp\obj\Debug\net7.0\SimpleConApp.AssemblyInfo.cs
+D:\Training\Recap\SimpleConApp\obj\Debug\net7.0\SimpleConApp.csproj.CoreCompileInputs.cache
+D:\Training\Recap\SimpleConApp\obj\Debug\net7.0\SimpleConApp.dll
+D:\Training\Recap\SimpleConApp\obj\Debug\net7.0\refint\SimpleConApp.dll
+D:\Training\Recap\SimpleConApp\obj\Debug\net7.0\SimpleConApp.pdb
+D:\Training\Recap\SimpleConApp\obj\Debug\net7.0\SimpleConApp.genruntimeconfig.cache
+D:\Training\Recap\SimpleConApp\obj\Debug\net7.0\ref\SimpleConApp.dll
